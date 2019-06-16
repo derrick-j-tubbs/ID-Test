@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initech", "Initech.csproj", "{CDE60A9F-DA65-4A02-8405-E00F6B36688D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDE60A9F-DA65-4A02-8405-E00F6B36688D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE60A9F-DA65-4A02-8405-E00F6B36688D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE60A9F-DA65-4A02-8405-E00F6B36688D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE60A9F-DA65-4A02-8405-E00F6B36688D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D9B6BF3-D01F-4A6B-A8AF-22AA2F7A7EDF}
+	EndGlobalSection
+EndGlobal
