@@ -68,15 +68,15 @@
         <Rectangle 
             Fill="#FF444444" 
             HorizontalAlignment="Left" 
-            Width="316" Height="41"
-            Margin="52,359,0,0" 
+            Width="316" Height="52"
+            Margin="52,348,0,0" 
             Stroke="Black" 
             VerticalAlignment="Top" />
         <Rectangle 
             Fill="#FF444444" 
             HorizontalAlignment="Left" 
-            Width="316" Height="44"
-            Margin="52,302,0,0" 
+            Width="316" Height="47"
+            Margin="52,295,0,0" 
             Stroke="Black" 
             VerticalAlignment="Top" />
 
@@ -121,11 +121,11 @@
             Click="btnUnrespondedIssues_Click" />
         <Button 
             x:Name="btnViewCustomers" 
-            Content="Find Customer ID" 
+            Content="View Customers" 
             HorizontalAlignment="Left" 
-            Margin="96,308,0,0"
+            Margin="96,301,0,0"
             VerticalAlignment="Top" 
-            Width="234" Height="28" 
+            Width="234" Height="30" 
             FontSize="18" 
             Background="#666666" 
             Click="btnViewCustomers_Click" />
@@ -133,9 +133,9 @@
             x:Name="btnFindCustomerID" 
             Content="Find Customer ID" 
             HorizontalAlignment="Left" 
-            Margin="96,366,0,0"
+            Margin="96,358,0,0"
             VerticalAlignment="Top" 
-            Width="234" Height="24" 
+            Width="234" Height="31" 
             FontSize="18" 
             Background="#666666" 
             Click="btnFindCustomerID_Click" />
